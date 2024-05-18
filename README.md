@@ -1,8 +1,5 @@
-# React + Vite
+# Rock Paper Scissors
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## A Simple Rock Paper Scissors Game
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Screenshot :![rock paper scissors](https://github.com/NoumanIsmail/rock-paper-scissors/assets/106505606/420e8b5a-b6d5-491e-8c77-ca87d6707c1a)
